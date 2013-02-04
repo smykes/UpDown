@@ -22,11 +22,11 @@ $(selector).updown({});
 ###Parameters
 
 Parameters are sent in an object literal on initialization of the plug-in.  
-Duration: The number of seconds you want the count to last.
+*Duration: The number of seconds you want the count to last.
 Default: 5 secods
-Start: The number you want the count to start with.
+*Start: The number you want the count to start with.
 Default: 450
-End: The number you want the count to end with.
+*End: The number you want the count to end with.
 Default: 100
 
 ```
