@@ -4,7 +4,7 @@ UpDown
 ###Introduction
 
 jQuery plugin to display a number by counting up, or down, to it over a provided duration.  This may be useful for a 
-little added pizaz to wisget or a dashboard when a page first loads.
+little added pizaz to widget or a dashboard when a page first loads.
 
 ###Usage
 
